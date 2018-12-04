@@ -1,0 +1,22 @@
+{
+ "ID": "702",
+ "NAME_CN": "MOONLIGHT/LOSTROOM",
+ "NAME_JP": "MOONLIGHT/LOSTROOM",
+ "NAME": "",
+ "HEAD1": "702C.png",
+ "PIC1": "702A.png",
+ "PIC2": "702B.png",
+ "Avatar": "702",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "永作友克",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的Master经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "LOSTROOM――\n你在那里，能看到无法挽回的东西\n或是正在慢慢消失的东西。\n\n它是位于迦勒底最里侧的\n月光笼罩的梦与现实的境界线。\n\n也是迦勒底召唤系统孕育出的\n珍贵且愉快的恩惠。"
+}

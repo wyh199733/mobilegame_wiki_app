@@ -1,0 +1,22 @@
+{
+ "ID": "849",
+ "NAME_CN": "英灵旅装：尼禄·克劳狄乌斯",
+ "NAME_JP": "英霊旅装：ネロ・クラウディウス",
+ "NAME": "",
+ "HEAD1": "849C.png",
+ "PIC1": "849A.png",
+ "PIC2": "849B.png",
+ "Avatar": "849",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "ワダアルコ",
+ "CV": null,
+ "ICO": "202.png",
+ "SKILL_E": "通关时所获得的魔术礼装经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "祝·「Fate/Grand Order」三周年！！\n\n庆祝纪念之日，迅游世界吧。\n陪伴你的将是身披旅衣的英灵们。"
+}

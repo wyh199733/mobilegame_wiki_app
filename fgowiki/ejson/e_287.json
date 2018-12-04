@@ -1,0 +1,22 @@
+{
+ "ID": "287",
+ "NAME_CN": "罗马",
+ "NAME_JP": "ローマ",
+ "NAME": "",
+ "HEAD1": "287C.png",
+ "PIC1": "287A.png",
+ "PIC2": "287B.png",
+ "Avatar": "287",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "---",
+ "CV": "--",
+ "ICO": "302.png",
+ "SKILL_E": "只有罗穆路斯(Lancer)装备时，自身在场期间，己方全体的宝具威力提升20%",
+ "SKILLMAX_E": "--",
+ "INTRO": "无论———\n\n当然———\n\n亦然，这只能是罗马成形之物。\n\n"
+}

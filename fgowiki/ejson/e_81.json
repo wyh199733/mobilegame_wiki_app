@@ -1,0 +1,22 @@
+{
+ "ID": "81",
+ "NAME_CN": "快乐×3指定",
+ "NAME_JP": "ハッピー×3・オーダー",
+ "NAME": "Happy? Order",
+ "HEAD1": "081C.png",
+ "PIC1": "081A.png",
+ "PIC2": "081B.png",
+ "Avatar": "081",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "2016",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "中原",
+ "CV": "——",
+ "ICO": "605.png",
+ "SKILL_E": "赋予自身每回合获得1个星星状态",
+ "SKILLMAX_E": "——",
+ "INTRO": "毽子板Saber与风筝Ruler，以及门松Shielder降临！\n身着盛装的三个少女与小狮子一同起舞，为Master招来福运！"
+}

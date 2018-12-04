@@ -1,0 +1,22 @@
+{
+ "ID": "864",
+ "NAME_CN": "Singularity F",
+ "NAME_JP": "Singularity F",
+ "NAME": "",
+ "HEAD1": "864C.png",
+ "PIC1": "864A.png",
+ "PIC2": "864B.png",
+ "Avatar": "864",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "風間雷太",
+ "CV": null,
+ "ICO": "202.png",
+ "SKILL_E": "通关时所获得的魔术礼装经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "燃烧的街道。\n探索圣杯的漫长旅程，Grand Order。\n一切都至此开始。\n\n凯尔特的魔术师，临时的德鲁伊。\n希望引导所有master―――"
+}

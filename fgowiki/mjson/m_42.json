@@ -1,0 +1,14 @@
+{
+ "NO": "42",
+ "CLASS": "技能强化素材",
+ "NAME": "术魔石",
+ "ICO": "ruby04.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "寄宿着术士力量的魔法石之石",
+ "MAP": "4,0,0,0,0",
+ "PLACE": "F_船の墓場(オケアノス),E5_術の修行場初级,E5_術の修行場中级,E5_術の修行場上级,E5_術の修行場超级",
+ "AP": "17,10,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

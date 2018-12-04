@@ -1,0 +1,22 @@
+{
+ "ID": "484",
+ "NAME_CN": "S草莓巧克力卷（S Sander crunch chocostick）",
+ "NAME_JP": "Ｓサンダークランチチョコスティック",
+ "NAME": "",
+ "HEAD1": "484C.png",
+ "PIC1": "484A.png",
+ "PIC2": "484B.png",
+ "Avatar": "484",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "200.png",
+ "SKILL_E": "情人节礼装 提供30000点礼装强化经验",
+ "SKILLMAX_E": "——",
+ "INTRO": "从莫德雷德（Rider）收到的巧克力\n\n刚前，目睹到了莫德雷德在现场里\n被部分小孩『Servant』受骗的缘故，\n不知为何突然间开始流行了类似巧克力棒游戏。\n\n「才不是我的错」本人这样辩解道。\n（太过于羞耻而在房间里蹲了三天都没有露面）"
+}

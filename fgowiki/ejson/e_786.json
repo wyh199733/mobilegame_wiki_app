@@ -1,0 +1,22 @@
+{
+ "ID": "786",
+ "NAME_CN": "暗云",
+ "NAME_JP": "暗澹",
+ "NAME": "",
+ "HEAD1": "786C.png",
+ "PIC1": "786A.png",
+ "PIC2": "786B.png",
+ "Avatar": "786",
+ "STAR": "2",
+ "LV1_HP": "120",
+ "LV1_ATK": "80",
+ "LVMAX_HP": "400",
+ "LVMAX_ATK": "250",
+ "COST": "3",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "407.png",
+ "SKILL_E": "自身的即死耐性提升5%",
+ "SKILLMAX_E": "自身的即死耐性提升10%[最大解放]",
+ "INTRO": "黑暗中蠢动的影子。\n看透他，不要错过。"
+}

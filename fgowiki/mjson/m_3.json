@@ -1,0 +1,14 @@
+{
+ "NO": "3",
+ "CLASS": "共通素材",
+ "NAME": "竜の逆鱗",
+ "ICO": "claw1.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "龙类颚下的一片倒生的鳞片",
+ "MAP": "0,0,0,0",
+ "PLACE": "E4_騎の修行場初级,E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级",
+ "AP": "10,20,30,40",
+ "LOST": "最终boss巨龙",
+ "AWARD": "cube.png,cube.png,cube.png,cube.png"
+}

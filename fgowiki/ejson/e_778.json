@@ -1,0 +1,22 @@
+{
+ "ID": "778",
+ "NAME_CN": "连锁",
+ "NAME_JP": "連鎖",
+ "NAME": "",
+ "HEAD1": "778C.png",
+ "PIC1": "778A.png",
+ "PIC2": "778B.png",
+ "Avatar": "778",
+ "STAR": "1",
+ "LV1_HP": "0",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "300",
+ "COST": "1",
+ "ILLUST": "kirusu",
+ "CV": "——",
+ "ICO": "301.png",
+ "SKILL_E": "赋予自身伤害提升30的状态",
+ "SKILLMAX_E": "赋予自身伤害提升50的状态[最大解放]",
+ "INTRO": "环形的锁链。\n连锁没有尽头，永不停止。"
+}

@@ -1,0 +1,14 @@
+{
+ "NO": "12",
+ "CLASS": "共通素材",
+ "NAME": "八連双晶",
+ "ICO": "cluster.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "格雷姆体内产出的多结晶体",
+ "MAP": "3,3,4,0,0,0,0",
+ "PLACE": "F_燻る戦火(セプテム),F_ローマの地平(セプテム),F_自由の海原(オケアノス),E7_狂の修行場初级,E7_狂の修行場中级,E7_狂の修行場上级,E7_狂の修行場超级",
+ "AP": "9,10,14,10,20,30,40",
+ "LOST": "石头人",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

@@ -1,0 +1,22 @@
+{
+ "ID": "690",
+ "NAME_CN": "FGO VR 玛修·基列莱特",
+ "NAME_JP": "FGO VR マシュ・キリエライト",
+ "NAME": "",
+ "HEAD1": "690C.png",
+ "PIC1": "690A.png",
+ "PIC2": "690B.png",
+ "Avatar": "690",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "武内崇",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的Master经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "这是与眼前的玛修一起度过的\n特别的一天―――\n\n「为了能帮上前辈的忙\n　我会在这场训练中加倍努力的！」\n\n请在VR中体验新的Master感觉吧。"
+}

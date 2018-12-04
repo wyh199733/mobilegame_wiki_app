@@ -1,0 +1,14 @@
+{
+ "NO": "5",
+ "CLASS": "共通素材",
+ "NAME": "ゴーストランタン",
+ "ICO": "lamp.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "以魂魄为灯油燃烧的提灯",
+ "MAP": "3,4,0,0,0,0",
+ "PLACE": "F_沸き立つ大地(セプテム),F_さまよえる幽霊船(オケアノス),E6_殺の修行場初级,E6_殺の修行場中级,E6_殺の修行場上级,E6_殺の修行場超级",
+ "AP": "9,15,10,20,30,40",
+ "LOST": "幽灵",
+ "AWARD": "crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

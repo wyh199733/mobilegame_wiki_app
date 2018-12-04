@@ -1,0 +1,22 @@
+{
+ "ID": "64",
+ "NAME_CN": "阿信",
+ "NAME_JP": "ノッブ",
+ "NAME": "",
+ "HEAD1": "064C.png",
+ "PIC1": "064A.png",
+ "PIC2": "064B.png",
+ "Avatar": "064",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "経験値",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "——",
+ "SKILLMAX_E": "——",
+ "INTRO": "给概念礼装提升等级的卡哦！\n总觉得很高兴啊！\n诶？吾会消失么！？有么？"
+}

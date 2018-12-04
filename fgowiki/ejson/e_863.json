@@ -1,0 +1,22 @@
+{
+ "ID": "863",
+ "NAME_CN": "Fate-Grand Order Arcade",
+ "NAME_JP": "Fate-Grand Order Arcade",
+ "NAME": "",
+ "HEAD1": "863C.png",
+ "PIC1": "863A.png",
+ "PIC2": "863B.png",
+ "Avatar": "863",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "武内崇＆下越＆Azusa＆pako＆Bすけ＆\n本庄雷太＆森井しづき＆輪くすさが",
+ "CV": null,
+ "ICO": "202.png",
+ "SKILL_E": "通关时所获得的御主经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "战斗的舞台来到Arcade―――\n由从者们演奏的，新的圣杯战争。\n\n本次舞台并非迦勒底一个。\n人类最后的master并非一人。\n正义和主张，也并不统一。"
+}

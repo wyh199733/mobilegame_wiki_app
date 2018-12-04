@@ -1,0 +1,14 @@
+{
+ "NO": "33",
+ "CLASS": "技能强化素材",
+ "NAME": "弓辉石",
+ "ICO": "sphere02.png",
+ "BOX": "Copper",
+ "QUALITY": "Copper",
+ "ABOUT": "寄宿着弓手力量的光辉之石",
+ "MAP": "1,1,1,1,1,2,3,3,3,3,3,3,4,4,4,4,4,4,0,0,0,0",
+ "PLACE": "F_紅く染まった港(冬木),F_骸彷徨う教会(冬木),F_焼け崩れた校舎(冬木),F_大空洞(冬木),F_ジャンヌ生誕の地(オルレアン),F_芸術の都(オルレアン),F_街道の女王(セプテム),F_花の都(セプテム),F_女神の洞窟(セプテム),F_ローマの地平(セプテム),F_黒い森(セプテム),F_私掠船団(オケアノス),F_海賊のアジト(オケアノス),F_呪われし海賊たち(オケアノス),F_牡牛の迷宮(オケアノス),F_船の墓場(オケアノス),F_自由の海原(オケアノス),E2_弓の修行場初级,E2",
+ "AP": "5,5,6,7,7,9,9,13,15,9,10,12,13,13,13,17,14,10,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

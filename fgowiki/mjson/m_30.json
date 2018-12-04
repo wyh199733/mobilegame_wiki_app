@@ -1,0 +1,14 @@
+{
+ "NO": "30",
+ "CLASS": "灵基再临素材",
+ "NAME": "金狂棋",
+ "ICO": "figure6g.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "象征着狂战职介的金棋子\n",
+ "MAP": "4,4,0,0,0,0",
+ "PLACE": "F_呪われし海賊たち(オケアノス),F_牡牛の迷宮(オケアノス),E7_狂の修行場初级,E7_狂の修行場中级,E7_狂の修行場上级,E7_狂の修行場超级",
+ "AP": "13,13,10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

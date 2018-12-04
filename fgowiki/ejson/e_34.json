@@ -1,0 +1,22 @@
+{
+ "ID": "34",
+ "NAME_CN": "万华镜",
+ "NAME_JP": "カレイドスコ—プ",
+ "NAME": "Kaleidoscope",
+ "HEAD1": "034C.png",
+ "PIC1": "034A.png",
+ "PIC2": "034B.png",
+ "Avatar": "034",
+ "STAR": "5",
+ "LV1_HP": "0",
+ "LV1_ATK": "500",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "2000",
+ "COST": "12",
+ "ILLUST": "pako",
+ "CV": "——",
+ "ICO": "601.png",
+ "SKILL_E": "自身在NP值为80%的状态下开始战斗",
+ "SKILLMAX_E": "自身在NP值为100%的状态下开始战斗[最大解放]",
+ "INTRO": "伟大的魔道元帅。\n守护着众多可能性与众多未来的人。其存在如同万华镜。"
+}

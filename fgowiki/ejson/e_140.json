@@ -1,0 +1,22 @@
+{
+ "ID": "140",
+ "NAME_CN": "南瓜少女",
+ "NAME_JP": "カボチャメイデン",
+ "NAME": "Cambodia Maiden",
+ "HEAD1": "140C.png",
+ "PIC1": "140A.png",
+ "PIC2": "140B.png",
+ "Avatar": "140",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "伊丽莎白(万圣节)的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "情人节什么的我知道哇！\n甜美，坚硬，酥脆的话就好了吧？\n那么这就是正确答案了呢！\nMaster，请品尝南瓜的点心吧♡"
+}

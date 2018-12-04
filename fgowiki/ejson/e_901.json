@@ -1,0 +1,22 @@
+{
+ "ID": "901",
+ "NAME_CN": "概念礼装EXP卡：全美购物",
+ "NAME_JP": "概念礼装EXP卡：ドルセント・ショップ",
+ "NAME": "",
+ "HEAD1": "900C.png",
+ "PIC1": "900A.png",
+ "PIC2": "900B.png",
+ "Avatar": "901",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "ainezu",
+ "CV": null,
+ "ICO": "9999.png",
+ "SKILL_E": "提供30000点礼装强化经验",
+ "SKILLMAX_E": "——",
+ "INTRO": "美人秘书即便备货也不会偷工减料。\n在营业之前将买好一切所需品。\n\n灵鬼们也将在此处帮忙！"
+}

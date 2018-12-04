@@ -1,0 +1,14 @@
+{
+ "NO": "48",
+ "CLASS": "技能强化素材",
+ "NAME": "枪秘石",
+ "ICO": "star03.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "寄宿着枪兵力量的宝石之石",
+ "MAP": "0,0",
+ "PLACE": "E3_槍の修行場上级,E3_槍の修行場超级",
+ "AP": "30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "cube.png,cube.png"
+}

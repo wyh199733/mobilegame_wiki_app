@@ -1,0 +1,22 @@
+{
+ "ID": "95",
+ "NAME_CN": "狮子玩偶",
+ "NAME_JP": "ライオンのぬいぐるみ",
+ "NAME": "",
+ "HEAD1": "095C.png",
+ "PIC1": "095A.png",
+ "PIC2": "095B.png",
+ "Avatar": "095",
+ "STAR": "3",
+ "LV1_HP": "300",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "1500",
+ "LVMAX_ATK": "0",
+ "COST": "5",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "600.png",
+ "SKILL_E": "自身被击倒时己方全体的HP回复800",
+ "SKILLMAX_E": "自身被击倒时己方全体的HP回复1000[最大解放]",
+ "INTRO": "遥步远方，梦之遗痕"
+}

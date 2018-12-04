@@ -1,0 +1,14 @@
+{
+ "NO": "44",
+ "CLASS": "技能强化素材",
+ "NAME": "狂魔石",
+ "ICO": "ruby06.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "寄宿着狂战力量的魔法石之石",
+ "MAP": "3,4,0,0,0",
+ "PLACE": "F_黒い森(セプテム),F_自由の海原(オケアノス),E7_狂の修行場中级,E7_狂の修行場上级,E7_狂の修行場超级",
+ "AP": "15,14,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,crystal1.png,cube.png,cube.png,cube.png"
+}

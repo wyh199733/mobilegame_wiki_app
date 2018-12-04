@@ -1,0 +1,14 @@
+{
+ "NO": "29",
+ "CLASS": "灵基再临素材",
+ "NAME": "金骑棋",
+ "ICO": "figure5g.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "象征着骑士职介的金棋子\n",
+ "MAP": "4,0,0,0,0",
+ "PLACE": "F_海賊のアジト(オケアノス),E4_騎の修行場初级,E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级",
+ "AP": "13,10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

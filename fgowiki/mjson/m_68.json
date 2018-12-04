@@ -1,0 +1,14 @@
+{
+ "NO": "68",
+ "CLASS": "技能强化&灵基再临素材",
+ "NAME": "黑兽脂",
+ "ICO": "fat.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "吞食灵魂的黑兽的体表脂肪",
+ "MAP": "6",
+ "PLACE": "F_テキサス・レンジャー(ラボック)",
+ "AP": "18",
+ "LOST": null,
+ "AWARD": "crystal1.png"
+}

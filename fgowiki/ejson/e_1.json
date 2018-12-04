@@ -1,0 +1,22 @@
+{
+ "ID": "1",
+ "NAME_CN": "顽强",
+ "NAME_JP": "頑強",
+ "NAME": "",
+ "HEAD1": "001C.png",
+ "PIC1": "001A.png",
+ "PIC2": "001B.png",
+ "Avatar": "001",
+ "STAR": "1",
+ "LV1_HP": "100",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "300",
+ "LVMAX_ATK": "0",
+ "COST": "1",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "400.png",
+ "SKILL_E": "自身的防御力提升3%",
+ "SKILLMAX_E": "自身的防御力提升5%[最大解放]",
+ "INTRO": "成为坚固之物。\n修炼即是将肉体化作岩石。"
+}

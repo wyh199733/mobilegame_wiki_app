@@ -1,0 +1,14 @@
+{
+ "NO": "15",
+ "CLASS": "共通素材",
+ "NAME": "英雄の証",
+ "ICO": "plate.png",
+ "BOX": "Silver",
+ "QUALITY": "Copper",
+ "ABOUT": "作为英雄的证明，虽然许多人都拥有，但是很多没有自觉的人就把这件事给忘了",
+ "MAP": "2,2,2,2,3,3,3,3,3,3,3,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+ "PLACE": "F_ジャンヌ生誕の地(オルレアン),F_ロワールの畔(オルレアン),F_死者の街(オルレアン),F_地中海を臨む(オルレアン),F_街道の女王(セプテム),F_ローマは一日にして成らず(セプテム),F_花の都(セプテム),F_平原の真中(セプテム),F_いにしえの港(セプテム),F_燻る戦火(セプテム),F_ローマの地平(セプテム),F_私掠船団(オケアノス),F_海賊のアジト(オケアノス),F_呪われし海賊たち(オケアノス),F_自由の海原(オケアノス),E1_剣の修行場初级,E1_剣の修行場中级,E1",
+ "AP": "7,7,7,7,9,9,9,9,9,9,10,12,13,13,14,10,20,30,40,10,20,30,40,10,20,30,40,10,20,30,40",
+ "LOST": "人类士兵",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png"
+}

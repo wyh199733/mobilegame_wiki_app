@@ -1,0 +1,22 @@
+{
+ "ID": "794",
+ "NAME_CN": "出发前进！",
+ "NAME_JP": "出発進行！",
+ "NAME": "",
+ "HEAD1": "794C.png",
+ "PIC1": "794A.png",
+ "PIC2": "794B.png",
+ "Avatar": "794",
+ "STAR": "3",
+ "LV1_HP": "160",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "800",
+ "LVMAX_ATK": "500",
+ "COST": "5",
+ "ILLUST": "LAM",
+ "CV": "——",
+ "ICO": "304.png",
+ "SKILL_E": "自身的Quick卡性能提升3% & NP获得量提升5%",
+ "SKILLMAX_E": "自身的Quick卡性能提升5% & NP获得量提升10%[最大解放]",
+ "INTRO": "虽然不知道要去哪里，\n但还是先前进吧！\n\n只要自由自在地，乘上骏鹰就可以去任何地方！"
+}

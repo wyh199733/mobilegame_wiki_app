@@ -1,0 +1,14 @@
+{
+ "NO": "8",
+ "CLASS": "共通素材",
+ "NAME": "禁断の頁",
+ "ICO": "paper.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "不管是谁都读不了的书页，究竟是第一页还是最后一页的问题上人们发生纠纷",
+ "MAP": "5,5",
+ "PLACE": "F_王室の狩場(伦敦),F_水晶宮の残影(伦敦)",
+ "AP": "16,20",
+ "LOST": "",
+ "AWARD": "crystal1.png,crystal1.png"
+}

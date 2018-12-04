@@ -1,0 +1,14 @@
+{
+ "NO": "17",
+ "CLASS": "共通素材",
+ "NAME": "凶骨",
+ "ICO": "bone.png",
+ "BOX": "Silver",
+ "QUALITY": "Copper",
+ "ABOUT": "被诅咒缠绕的灾祸之骨",
+ "MAP": "1,1,1,1,1,1,1,2,2,2,3,3,4",
+ "PLACE": "F_屋敷跡(冬木),F_爆心地(冬木),F_大橋(冬木),F_紅く染まった港(冬木),F_骸彷徨う教会(冬木),F_焼け崩れた校舎(冬木),F_燃え盛る森(冬木),F_始まりの砦(オルレアン),F_運命の砦(オルレアン),F_芸術の都(オルレアン),F_女神の洞窟(セプテム),F_黒い森(セプテム),F_船の墓場(オケアノス)",
+ "AP": "3,4,4,5,5,6,15,7,8,13,9,15,17",
+ "LOST": "骷髅士兵",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png"
+}

@@ -1,0 +1,22 @@
+{
+ "ID": "178",
+ "NAME_CN": "个人训练",
+ "NAME_JP": "パーソナル・トレーニング",
+ "NAME": "Personal Training",
+ "HEAD1": "178C.png",
+ "PIC1": "178A.png",
+ "PIC2": "178B.png",
+ "Avatar": "178",
+ "STAR": "5",
+ "LV1_HP": "400",
+ "LV1_ATK": "250",
+ "LVMAX_HP": "1600",
+ "LVMAX_ATK": "1000",
+ "COST": "12",
+ "ILLUST": "志麻しのじ",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的Master经验值增加2%",
+ "SKILLMAX_E": "任务通关时所获得的Master经验值增加10%[最大解放]",
+ "INTRO": "模拟训练场。\n配合玛修的自主训练，\n困难度远远超出想象。\n\n“Master，辛苦了”\n\n树荫下，毫无厌倦的笑脸透露着信赖。\n哎呀哎呀。为了这一刻，\n多么艰难的训练都是值得的！"
+}

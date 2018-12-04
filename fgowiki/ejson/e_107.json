@@ -1,0 +1,22 @@
+{
+ "ID": "107",
+ "NAME_CN": "英灵肖像：梅菲斯托费勒斯",
+ "NAME_JP": "英霊肖像:メフィストフェレス",
+ "NAME": "",
+ "HEAD1": "107C.png",
+ "PIC1": "107A.png",
+ "PIC2": "107B.png",
+ "Avatar": "107",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "500",
+ "LVMAX_ATK": "500",
+ "COST": "5",
+ "ILLUST": "下越",
+ "CV": "——",
+ "ICO": "205.png",
+ "SKILL_E": "任务通关时所获得的羁绊增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "响应Grand Order的召唤的Servent\n之一。\n小丑的恶魔在嘲笑。\n即使世界非常非常悲伤残酷，也充满了太多的愉悦。"
+}

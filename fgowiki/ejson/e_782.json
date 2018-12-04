@@ -1,0 +1,22 @@
+{
+ "ID": "782",
+ "NAME_CN": "慈爱",
+ "NAME_JP": "慈愛",
+ "NAME": "",
+ "HEAD1": "782C.png",
+ "PIC1": "782A.png",
+ "PIC2": "782B.png",
+ "Avatar": "782",
+ "STAR": "2",
+ "LV1_HP": "200",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "750",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "611.png",
+ "SKILL_E": "自身的HP回复量提升3%",
+ "SKILLMAX_E": "自身的HP回复量提升5%[最大解放]",
+ "INTRO": "深深的慈悲。\n愿你身边能留下一丝爱。"
+}

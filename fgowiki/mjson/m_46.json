@@ -1,0 +1,14 @@
+{
+ "NO": "46",
+ "CLASS": "技能强化素材",
+ "NAME": "剑秘石",
+ "ICO": "star01.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "寄宿着剑士力量的宝石之石",
+ "MAP": "0,0",
+ "PLACE": "E1_剣の修行場上级,E1_剣の修行場超级",
+ "AP": "30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "cube.png,cube.png"
+}

@@ -1,0 +1,22 @@
+{
+ "ID": "27",
+ "NAME_CN": "品行高雅",
+ "NAME_JP": "優雅たれ",
+ "NAME": "",
+ "HEAD1": "027C.png",
+ "PIC1": "027A.png",
+ "PIC2": "027B.png",
+ "Avatar": "027",
+ "STAR": "4",
+ "LV1_HP": "300",
+ "LV1_ATK": "200",
+ "LVMAX_HP": "1125",
+ "LVMAX_ATK": "750",
+ "COST": "9",
+ "ILLUST": "坂本みねじ",
+ "CV": "——",
+ "ICO": "604.png",
+ "SKILL_E": "自身的暴击星星发生率提升25%",
+ "SKILLMAX_E": "自身的暴击星星发生率提升30%[最大解放]",
+ "INTRO": "Noblesse oblige（位高则权重），\n优雅地做事是统治阶级的嗜好。"
+}

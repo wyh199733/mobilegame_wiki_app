@@ -1,0 +1,22 @@
+{
+ "ID": "783",
+ "NAME_CN": "繁荣",
+ "NAME_JP": "繁栄",
+ "NAME": "",
+ "HEAD1": "783C.png",
+ "PIC1": "783A.png",
+ "PIC2": "783B.png",
+ "Avatar": "783",
+ "STAR": "2",
+ "LV1_HP": "200",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "750",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "kirusu",
+ "CV": "——",
+ "ICO": "606.png",
+ "SKILL_E": "赋予自身每回合回复HP30的状态",
+ "SKILLMAX_E": "赋予自身每回合回复HP50的状态[最大解放]",
+ "INTRO": "枝繁叶茂，果实丰收。\n给予丰饶的生命以祝福。"
+}

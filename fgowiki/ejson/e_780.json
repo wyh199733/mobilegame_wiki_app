@@ -1,0 +1,22 @@
+{
+ "ID": "780",
+ "NAME_CN": "觉醒",
+ "NAME_JP": "覚醒",
+ "NAME": "",
+ "HEAD1": "780C.png",
+ "PIC1": "780A.png",
+ "PIC2": "780B.png",
+ "Avatar": "780",
+ "STAR": "1",
+ "LV1_HP": "80",
+ "LV1_ATK": "50",
+ "LVMAX_HP": "250",
+ "LVMAX_ATK": "150",
+ "COST": "1",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "311.png",
+ "SKILL_E": "自身的星星集中度提升50%",
+ "SKILLMAX_E": "自身的星星集中度提升100%[最大解放]",
+ "INTRO": "觉醒吧。\n将一切都留在光芒之下。"
+}

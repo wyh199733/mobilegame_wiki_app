@@ -1,0 +1,22 @@
+{
+ "ID": "29",
+ "NAME_CN": "天之晚餐",
+ "NAME_JP": "天の晚餐",
+ "NAME": "",
+ "HEAD1": "029C.png",
+ "PIC1": "029A.png",
+ "PIC2": "029B.png",
+ "Avatar": "029",
+ "STAR": "4",
+ "LV1_HP": "300",
+ "LV1_ATK": "200",
+ "LVMAX_HP": "1125",
+ "LVMAX_ATK": "750",
+ "COST": "9",
+ "ILLUST": "左",
+ "CV": "——",
+ "ICO": "602.png",
+ "SKILL_E": "自身的NP获得量提升25%",
+ "SKILLMAX_E": "自身的NP获得量提升30%[最大解放]",
+ "INTRO": "杯中盛满祝福。\n婴儿们本能地把生命当做第一要务看待。"
+}

@@ -1,0 +1,22 @@
+{
+ "ID": "43",
+ "NAME_CN": "月光宝石",
+ "NAME_JP": "ムーニー・ジュエル",
+ "NAME": "Moony Jewel",
+ "HEAD1": "043C.png",
+ "PIC1": "043A.png",
+ "PIC2": "043B.png",
+ "Avatar": "043",
+ "STAR": "4",
+ "LV1_HP": "600",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "2250",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "志麻しのじ",
+ "CV": "——",
+ "ICO": "401.png",
+ "SKILL_E": "自身的魅惑抗性提升80%",
+ "SKILLMAX_E": "自身的魅惑抗性提升100%[最大解放]",
+ "INTRO": "在我如今已经失去的小屋里。\n月光中，少女的笑容如宝石般闪闪发光。"
+}

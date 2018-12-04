@@ -1,0 +1,22 @@
+{
+ "ID": "117",
+ "NAME_CN": "皇帝巧克力",
+ "NAME_JP": "皇帝チョコ",
+ "NAME": "",
+ "HEAD1": "117C.png",
+ "PIC1": "117A.png",
+ "PIC2": "117B.png",
+ "Avatar": "117",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "尼禄的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "这是余的手工哦！\n然后因为月桂冠是罗马皇帝的证明，那一带只咬着巧克力吃就好了！"
+}

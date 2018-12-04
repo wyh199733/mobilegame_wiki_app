@@ -1,0 +1,22 @@
+{
+ "ID": "8",
+ "NAME_CN": "丰穰",
+ "NAME_JP": "豊穣",
+ "NAME": "",
+ "HEAD1": "008C.png",
+ "PIC1": "008A.png",
+ "PIC2": "008B.png",
+ "Avatar": "008",
+ "STAR": "2",
+ "LV1_HP": "112",
+ "LV1_ATK": "75",
+ "LVMAX_HP": "375",
+ "LVMAX_ATK": "250",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "601.png",
+ "SKILL_E": "自身在NP值为10%的状态下开始战斗",
+ "SKILLMAX_E": "自身在NP值为20%的状态下开始战斗[最大解放]",
+ "INTRO": "收获之时。\n收成喜人，感谢大地。"
+}

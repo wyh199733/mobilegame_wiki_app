@@ -1,0 +1,22 @@
+{
+ "ID": "712",
+ "NAME_CN": "Fate/EXTRA",
+ "NAME_JP": "Fate/EXTRA",
+ "NAME": "",
+ "HEAD1": "712C.png",
+ "PIC1": "712A.png",
+ "PIC2": "712B.png",
+ "Avatar": "712",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "滝山真哲＆山村洋貴",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的魔术礼装EXP增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "Fate/EXTRA。\n\n那是拥有相同的前提条件，但是内容核心并不相同的\n近未来的“人与英雄”的故事。存在于月亮上，可以实现一切愿望的灵子计算机Moon CELL Automaton。基于它所创造的灵子虚构世界SE.RA.PH就是本次故事舞台。在本该成为人类新天地的电子世界，未知的新战斗来开了帷幕。"
+}

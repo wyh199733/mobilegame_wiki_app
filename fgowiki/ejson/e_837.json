@@ -1,0 +1,22 @@
+{
+ "ID": "837",
+ "NAME_CN": "英灵旅装：佐佐木小次郎",
+ "NAME_JP": "英霊旅装：佐々木小次郎",
+ "NAME": "",
+ "HEAD1": "837C.png",
+ "PIC1": "837A.png",
+ "PIC2": "837B.png",
+ "Avatar": "837",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "また",
+ "CV": null,
+ "ICO": "202.png",
+ "SKILL_E": "通关时所获得的魔术礼装经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "祝·「Fate/Grand Order」三周年！！\n\n庆祝纪念之日，迅游世界吧。\n陪伴你的将是身披旅衣的英灵们。"
+}

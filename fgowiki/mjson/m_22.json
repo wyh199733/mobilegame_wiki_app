@@ -1,0 +1,14 @@
+{
+ "NO": "22",
+ "CLASS": "灵基再临素材",
+ "NAME": "银骑棋",
+ "ICO": "figure5s.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "象征着骑士职介的银棋子\n",
+ "MAP": "1,2,3,4,0,0,0,0",
+ "PLACE": "F_骸彷徨う教会(冬木),F_太古の森(オルレアン),F_いにしえの港(セプテム),F_海賊のアジト(オケアノス),E4_騎の修行場初级,E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级",
+ "AP": "5,7,9,13,10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

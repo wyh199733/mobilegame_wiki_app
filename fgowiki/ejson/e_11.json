@@ -1,0 +1,22 @@
+{
+ "ID": "11",
+ "NAME_CN": "Azoth剑",
+ "NAME_JP": "アゾット剣",
+ "NAME": "",
+ "HEAD1": "011C.png",
+ "PIC1": "011A.png",
+ "PIC2": "011B.png",
+ "Avatar": "011",
+ "STAR": "3",
+ "LV1_HP": "200",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "1000",
+ "LVMAX_ATK": "0",
+ "COST": "5",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "400.png",
+ "SKILL_E": "自身的防御力提升8%",
+ "SKILLMAX_E": "自身的防御力提升10%[最大解放]",
+ "INTRO": "魔术师的基本礼装。\n行使魔术礼仪使用的杖。"
+}

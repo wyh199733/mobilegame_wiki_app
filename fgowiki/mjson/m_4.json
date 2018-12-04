@@ -1,0 +1,14 @@
+{
+ "NO": "4",
+ "CLASS": "共通素材",
+ "NAME": "混沌の爪",
+ "ICO": "claw.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "被这爪子抓伤的人，会成为混沌的俘虏",
+ "MAP": "2,0,0,0",
+ "PLACE": "F_黒い森(セプテム),E7_狂の修行場中级,E7_狂の修行場上级,E7_狂の修行場超级",
+ "AP": "15,20,30,40",
+ "LOST": "奇美拉",
+ "AWARD": "crystal1.png,cube.png,cube.png,cube.png"
+}

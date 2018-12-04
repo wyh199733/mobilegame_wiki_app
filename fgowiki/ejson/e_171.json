@@ -1,0 +1,22 @@
+{
+ "ID": "171",
+ "NAME_CN": "SLAYER之王子殿下",
+ "NAME_JP": "プリンス・オブ・スレイヤー",
+ "NAME": "Prince of SLAYER",
+ "HEAD1": "171C.png",
+ "PIC1": "171A.png",
+ "PIC2": "171B.png",
+ "Avatar": "171",
+ "STAR": "3",
+ "LV1_HP": "160",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "800",
+ "LVMAX_ATK": "500",
+ "COST": "5",
+ "ILLUST": "鈴木次郎",
+ "CV": "——",
+ "ICO": "605.png",
+ "SKILL_E": "赋予自身每回合获得1个星星状态 & 赋予[龙]特攻状态8%",
+ "SKILLMAX_E": "赋予自身每回合获得2个星星状态 & 赋予[龙]特攻状态10%[最大解放]",
+ "INTRO": "“你是我的龙。只需一个眨眼就能击倒★”\n\n从奥尔良突然出现的最强偶像组合『DraBus』，\nDragon Busters终于出道了！\n双足飞龙已不足为惧，因为DraBus会保护你！\n\n※不允许弓属性的女士入场。"
+}

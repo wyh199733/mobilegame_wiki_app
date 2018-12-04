@@ -1,0 +1,22 @@
+{
+ "ID": "705",
+ "NAME_CN": "阿瓦隆庆典",
+ "NAME_JP": "アヴァロン・セレブレイト",
+ "NAME": "",
+ "HEAD1": "705C.png",
+ "PIC1": "705A.png",
+ "PIC2": "705B.png",
+ "Avatar": "705",
+ "STAR": "4",
+ "LV1_HP": "320",
+ "LV1_ATK": "200",
+ "LVMAX_HP": "1200",
+ "LVMAX_ATK": "750",
+ "COST": "9",
+ "ILLUST": "NOCO",
+ "CV": "——",
+ "ICO": "311.png",
+ "SKILL_E": "自身的星星集中度提升300% & NP获得量提升10%",
+ "SKILLMAX_E": "自身的星星集中度提升400% & NP获得量提升15%[最大解放]",
+ "INTRO": "赐予迎接新年的你\n一段祝福的咒语吧。\n\n给予这位对未来充满期待的人微笑―――\nBreath of Avalon！"
+}

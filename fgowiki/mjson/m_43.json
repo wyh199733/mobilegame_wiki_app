@@ -1,0 +1,14 @@
+{
+ "NO": "43",
+ "CLASS": "技能强化素材",
+ "NAME": "骑魔石",
+ "ICO": "ruby05.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "寄宿着骑士力量的魔法石之石",
+ "MAP": "2,2,0,0,0,0",
+ "PLACE": "F_運命の砦(オルレアン),F_芸術の都(オルレアン),E4_騎の修行場初级,E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级",
+ "AP": "8,13,10,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

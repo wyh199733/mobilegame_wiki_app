@@ -1,0 +1,22 @@
+{
+ "ID": "12",
+ "NAME_CN": "伪臣之书",
+ "NAME_JP": "偽臣の書",
+ "NAME": "",
+ "HEAD1": "012C.png",
+ "PIC1": "012A.png",
+ "PIC2": "012B.png",
+ "Avatar": "012",
+ "STAR": "3",
+ "LV1_HP": "300",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "1500",
+ "LVMAX_ATK": "0",
+ "COST": "5",
+ "ILLUST": "Bすけ",
+ "CV": "——",
+ "ICO": "401.png",
+ "SKILL_E": "自身的弱体耐性提升15%",
+ "SKILLMAX_E": "自身的弱体耐性提升20%[最大解放]",
+ "INTRO": "为了向他人转让Master权限而制作的书。\n作成它需要消耗一画令咒。"
+}

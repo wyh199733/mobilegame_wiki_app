@@ -1,0 +1,22 @@
+{
+ "ID": "59",
+ "NAME_CN": "命运/懒散指定",
+ "NAME_JP": "Fateぐだぐだオーダー",
+ "NAME": "Fate/Gudaguda order",
+ "HEAD1": "059C.png",
+ "PIC1": "059A.png",
+ "PIC2": "059B.png",
+ "Avatar": "059",
+ "STAR": "3",
+ "LV1_HP": "150",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "750",
+ "LVMAX_ATK": "500",
+ "COST": "5",
+ "ILLUST": "経験値",
+ "CV": "——",
+ "ICO": "317.png",
+ "SKILL_E": "自身的Quick卡性能 & Arts卡性能 & Buster卡性能 & 星星发生率 & 星星集中度 & 暴击威力 & NP获得量 & 宝具威力 & 弱体赋予成功率 & 弱体耐性 & HP回复量全部提升1%",
+ "SKILLMAX_E": "自身的Quick卡性能 & Arts卡性能 & Buster卡性能 & 星星发生率 & 星星集中度 & 暴击威力 & NP获得量 & 宝具威力 & 弱体赋予成功率 & 弱体耐性 & HP回复量全部提升2%[最大解放]",
+ "INTRO": "阿信“角色也太多点了吧……”\n冲太“这是纪念哟，纪念！”"
+}

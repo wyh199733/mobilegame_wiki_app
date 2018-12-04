@@ -1,0 +1,22 @@
+{
+ "ID": "24",
+ "NAME_CN": "阴炁弹",
+ "NAME_JP": "ガンド",
+ "NAME": "Gandr",
+ "HEAD1": "024C.png",
+ "PIC1": "024A.png",
+ "PIC2": "024B.png",
+ "Avatar": "024",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "400",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "1500",
+ "COST": "9",
+ "ILLUST": "曽我誠",
+ "CV": "——",
+ "ICO": "304.png",
+ "SKILL_E": "自身的Quick卡性能提升15%",
+ "SKILLMAX_E": "自身的Quick卡性能提升20%[最大解放]",
+ "INTRO": "北欧传承的符文魔术。\n使对象身体活动能力低下的诅咒。\n魔力密度足够高的话也能拥有堪比子弹的威力。"
+}

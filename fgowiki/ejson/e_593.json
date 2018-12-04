@@ -1,0 +1,22 @@
+{
+ "ID": "593",
+ "NAME_CN": "从漫画了解FGO！",
+ "NAME_JP": "マンガで分かる！FGO",
+ "NAME": "",
+ "HEAD1": "593C.png",
+ "PIC1": "593A.png",
+ "PIC2": "593B.png",
+ "Avatar": "593",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "リヨ",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的Master经验增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "主人公今天也继续战斗。\n与Servant们齐心合力，\n坚守着人类的未来。\n相信空战型阿尔托莉雅能够拯救世界———！"
+}

@@ -1,0 +1,14 @@
+{
+ "NO": "40",
+ "CLASS": "技能强化素材",
+ "NAME": "弓魔石",
+ "ICO": "ruby02.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "寄宿着弓手力量的魔法石之石",
+ "MAP": "0,0,0",
+ "PLACE": "E2_弓の修行場中级,E2_弓の修行場上级,E2_弓の修行場超级",
+ "AP": "20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "cube.png,cube.png,cube.png"
+}

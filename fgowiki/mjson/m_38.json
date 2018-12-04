@@ -1,0 +1,14 @@
+{
+ "NO": "38",
+ "CLASS": "技能强化素材",
+ "NAME": "杀辉石",
+ "ICO": "sphere07.png",
+ "BOX": "Copper",
+ "QUALITY": "Copper",
+ "ABOUT": "寄宿着杀手力量的光辉之石",
+ "MAP": "1,3,0,0,0,0",
+ "PLACE": "F_大空洞(冬木),F_沸き立つ大地(セプテム),E6_殺の修行場初级,E6_殺の修行場中级,E6_殺の修行場上级,E6_殺の修行場超级",
+ "AP": "7,9,10,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

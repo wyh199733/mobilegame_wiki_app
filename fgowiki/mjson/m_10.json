@@ -1,0 +1,14 @@
+{
+ "NO": "10",
+ "CLASS": "共通素材",
+ "NAME": "ホムンクルスベビー",
+ "ICO": "potion.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "被植入灵魂之前，人造人的幼体",
+ "MAP": "5,5,5,5",
+ "PLACE": "F_スクエアマイル(伦敦),F_魅惑の繁華街(伦敦),F_スコットランドヤード(伦敦),F_バラマーケット(伦敦)",
+ "AP": "15,16,16,19",
+ "LOST": "",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png"
+}

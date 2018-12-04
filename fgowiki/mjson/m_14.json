@@ -1,0 +1,14 @@
+{
+ "NO": "14",
+ "CLASS": "共通素材",
+ "NAME": "世界樹の種",
+ "ICO": "walnut.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "能够展现出世界一般，巨大树木的种子",
+ "MAP": "2,2,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0",
+ "PLACE": "F_太古之森(オルレアン),F_ワインで乾杯(オルレアン),F_霧深き森(セプテム),F_人跡未踏の地(オケアノス),F_秘密航路(オケアノス),E1_剣の修行場中级,E1_剣の修行場上级,E1_剣の修行場超级,E2_弓の修行場中级,E2_弓の修行場上级,E2_弓の修行場超级,E3_槍の修行場中级,E3_槍の修行場上级,E3_槍の修行場超级,E6_殺の修行場中级,E6_殺の修行場上级,E6_殺の修行場超级",
+ "AP": "7,7,10,17,18,20,30,40,20,30,40,20,30,40,20,30,40",
+ "LOST": "亚马逊士兵\n哥布林\n狼人",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png"
+}

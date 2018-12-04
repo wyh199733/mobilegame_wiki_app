@@ -1,0 +1,22 @@
+{
+ "ID": "19",
+ "NAME_CN": "魔术矿石",
+ "NAME_JP": "魔術鉱石",
+ "NAME": "",
+ "HEAD1": "019C.png",
+ "PIC1": "019A.png",
+ "PIC2": "019B.png",
+ "Avatar": "019",
+ "STAR": "3",
+ "LV1_HP": "150",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "750",
+ "LVMAX_ATK": "500",
+ "COST": "5",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "602.png",
+ "SKILL_E": "自身的NP获得量提升15%",
+ "SKILLMAX_E": "自身的NP获得量提升20%[最大解放]",
+ "INTRO": "使用宝石魔术的魔术师当作触媒使用的宝石。"
+}

@@ -1,0 +1,22 @@
+{
+ "ID": "39",
+ "NAME_CN": "抹大拉的圣骸布",
+ "NAME_JP": "マグダラの聖骸布",
+ "NAME": "",
+ "HEAD1": "039C.png",
+ "PIC1": "039A.png",
+ "PIC2": "039B.png",
+ "Avatar": "039",
+ "STAR": "4",
+ "LV1_HP": "400",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "1500",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "森井しづき",
+ "CV": "——",
+ "ICO": "400.png",
+ "SKILL_E": "自身的对[男性]防御力提升25%",
+ "SKILLMAX_E": "自身的对[男性]防御力提升30%[最大解放]",
+ "INTRO": "Noli Me Tangere（不要挽留我）。\n只有在恶魔的泥沼中站立，才是身为圣女的证明。"
+}

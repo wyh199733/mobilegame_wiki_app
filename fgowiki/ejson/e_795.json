@@ -1,0 +1,22 @@
+{
+ "ID": "795",
+ "NAME_CN": "城塞的午后",
+ "NAME_JP": "城塞の午後",
+ "NAME": "",
+ "HEAD1": "795C.png",
+ "PIC1": "795A.png",
+ "PIC2": "795B.png",
+ "Avatar": "795",
+ "STAR": "5",
+ "LV1_HP": "750",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "3000",
+ "LVMAX_ATK": "0",
+ "COST": "12",
+ "ILLUST": "ネコタワワ",
+ "CV": "——",
+ "ICO": "315.png",
+ "SKILL_E": "自身Arts卡性能提升10% & Buster卡性能提升10% & 宝具威力提升10%",
+ "SKILLMAX_E": "自身Arts卡性能提升15% & Buster卡性能提升15% & 宝具威力提升15%[最大解放]",
+ "INTRO": "进行战斗准备时，也要把握自家阵营状况。\n\n正在进行城堡探索的他，\n被master等人追赶着。\n\n或许master最担心的，\n就是负责带路的儿子吧。"
+}

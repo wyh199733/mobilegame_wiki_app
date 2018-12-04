@@ -1,0 +1,22 @@
+{
+ "ID": "121",
+ "NAME_CN": "八桥巧克力",
+ "NAME_JP": "八つ橋チョコ",
+ "NAME": "",
+ "HEAD1": "121C.png",
+ "PIC1": "121A.png",
+ "PIC2": "121B.png",
+ "Avatar": "121",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "sime",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "冲田总司的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "这是冲田桑从举市著名的和式点心屋早上很早排队购买的限定巧克力哦，Master！\n与新选组联动的包装纸也很有趣。"
+}

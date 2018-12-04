@@ -1,0 +1,14 @@
+{
+ "NO": "63",
+ "CLASS": "特殊道具",
+ "NAME": "银苹果",
+ "ICO": "silverapple.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "发出耀眼光芒的苹果\n作用：回复50%Ap",
+ "MAP": "",
+ "PLACE": "回复50%Ap",
+ "AP": "",
+ "LOST": null,
+ "AWARD": ""
+}

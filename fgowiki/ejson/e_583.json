@@ -1,0 +1,22 @@
+{
+ "ID": "583",
+ "NAME_CN": "Fate/Apocrypha",
+ "NAME_JP": "Fate/Apocrypha",
+ "NAME": "",
+ "HEAD1": "583C.png",
+ "PIC1": "583A.png",
+ "PIC2": "583B.png",
+ "Avatar": "583",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时获得的魔术礼装经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "强行夺走圣杯，召唤出七骑Servant之力\n将把魔术师世界打进楔的尤格多米雷尼亚一族。\n这时应对，另一边魔术协会同样召集出七骑Servant，\n进行指示准备彻底抗战。\n\n七骑对七骑\n空前绝后的魔术战争——「圣杯大战」开幕。\n\n这是，实现人类愿望的故事。"
+}

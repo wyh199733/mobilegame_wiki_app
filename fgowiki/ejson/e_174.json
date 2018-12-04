@@ -1,0 +1,22 @@
+{
+ "ID": "174",
+ "NAME_CN": "[Heaven's Feel]",
+ "NAME_JP": "",
+ "NAME": "[Heaven's Feel]",
+ "HEAD1": "174C.png",
+ "PIC1": "174A.png",
+ "PIC2": "174B.png",
+ "Avatar": "174",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "須藤友徳(ufotable)",
+ "CV": "——",
+ "ICO": "304.png",
+ "SKILL_E": "自身的Quick卡性能提升10% & 自身在NP值为40%的状态下开始战斗",
+ "SKILLMAX_E": "——",
+ "INTRO": "梦见了温暖的日子。\n薄冰的平稳，积木的天秤，瓦砾上的摇篮。\n睡着的话仿佛不会再次来访的，\n残酷而又温柔的昨日。\n\n　　　　　　　　　　────Heaven's Feel"
+}

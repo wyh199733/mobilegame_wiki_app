@@ -1,0 +1,22 @@
+{
+ "ID": "116",
+ "NAME_CN": "牧场之巧克力",
+ "NAME_JP": "牧場のチョコ",
+ "NAME": "",
+ "HEAD1": "116C.png",
+ "PIC1": "116A.png",
+ "PIC2": "116B.png",
+ "Avatar": "116",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "阿尔托莉雅(Lily)的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "以最喜欢的东西为原型制作的！\n乘着对你的思念，寄予你！"
+}

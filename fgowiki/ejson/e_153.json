@@ -1,0 +1,22 @@
+{
+ "ID": "153",
+ "NAME_CN": "圣奥尔良",
+ "NAME_JP": "st.オルレアン",
+ "NAME": "st.Orl閍ns",
+ "HEAD1": "153C.png",
+ "PIC1": "153A.png",
+ "PIC2": "153B.png",
+ "Avatar": "153",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "贞德的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "给不管遇到什么事，一直都决不逃避勇敢面对的你。\n但是，偶尔也请对我撒娇一下哦？"
+}

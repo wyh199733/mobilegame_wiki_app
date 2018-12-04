@@ -1,0 +1,22 @@
+{
+ "ID": "6",
+ "NAME_CN": "闪光",
+ "NAME_JP": "閃光",
+ "NAME": "",
+ "HEAD1": "006C.png",
+ "PIC1": "006A.png",
+ "PIC2": "006B.png",
+ "Avatar": "006",
+ "STAR": "2",
+ "LV1_HP": "150",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "500",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "303.png",
+ "SKILL_E": "自身的暴击威力提升5%",
+ "SKILLMAX_E": "自身的暴击威力提升10%[最大解放]",
+ "INTRO": "瞬间的看穿。\n紫电一闪，割裂天空。"
+}

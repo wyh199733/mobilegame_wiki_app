@@ -1,0 +1,14 @@
+{
+ "NO": "13",
+ "CLASS": "共通素材",
+ "NAME": "蛮神の心臓",
+ "ICO": "heart.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "蛮荒之神的心脏，虽然说是虚假的神，但神就是神，心脏的鼓动会释放出众多的诅咒",
+ "MAP": "0,0",
+ "PLACE": "E5_術の修行場上级,E5_術の修行場超级",
+ "AP": "30,40",
+ "LOST": "大恶魔",
+ "AWARD": "cube.png,cube.png"
+}

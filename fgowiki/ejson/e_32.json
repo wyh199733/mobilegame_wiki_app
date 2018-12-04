@@ -1,0 +1,22 @@
+{
+ "ID": "32",
+ "NAME_CN": "Imaginary Around",
+ "NAME_JP": "イマジナリ•アラウンド",
+ "NAME": "Imaginary Around",
+ "HEAD1": "032C.png",
+ "PIC1": "032A.png",
+ "PIC2": "032B.png",
+ "Avatar": "032",
+ "STAR": "5",
+ "LV1_HP": "0",
+ "LV1_ATK": "500",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "2000",
+ "COST": "12",
+ "ILLUST": "中原",
+ "CV": "——",
+ "ICO": "304.png",
+ "SKILL_E": "自身的Quick卡性能提升25%",
+ "SKILLMAX_E": "自身的Quick卡性能提升30%[最大解放]",
+ "INTRO": "空想才是自由的证明。影之虚数如今，将化作轻盈流动的风。"
+}

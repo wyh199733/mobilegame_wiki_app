@@ -1,0 +1,14 @@
+{
+ "NO": "25",
+ "CLASS": "灵基再临素材",
+ "NAME": "金剑棋",
+ "ICO": "figure1g.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "象征着剑士职介的金棋子",
+ "MAP": "0,0,0,0",
+ "PLACE": "E1_剣の修行場初级,E1_剣の修行場中级,E1_剣の修行場上级,E1_剣の修行場超级",
+ "AP": "10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "cube.png,cube.png,cube.png,cube.png"
+}

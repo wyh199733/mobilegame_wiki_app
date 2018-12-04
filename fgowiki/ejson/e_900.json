@@ -1,0 +1,22 @@
+{
+ "ID": "900",
+ "NAME_CN": "C・K・T",
+ "NAME_JP": "C・K・T",
+ "NAME": "",
+ "HEAD1": "899C.png",
+ "PIC1": "899A.png",
+ "PIC2": "899B.png",
+ "Avatar": "900",
+ "STAR": "5",
+ "LV1_HP": "400",
+ "LV1_ATK": "1600",
+ "LVMAX_HP": "250",
+ "LVMAX_ATK": "1000",
+ "COST": "12",
+ "ILLUST": "いみぎむる",
+ "CV": null,
+ "ICO": "314.png",
+ "SKILL_E": "自身的Quick卡性能提升10% & Arts卡性能提升10% & 宝具威力提升10%",
+ "SKILLMAX_E": "自身的Quick卡性能提升15% & Arts卡性能提升15% & 宝具威力提升15%[最大解放]",
+ "INTRO": "迦勒底・厨房・竞赛。\n又名Unlimited Burger Works―――\n\n这回是纽约出差版。\n尽情享用热乎乎的汉堡吧！"
+}

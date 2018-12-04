@@ -1,0 +1,22 @@
+{
+ "ID": "35",
+ "NAME_CN": "宛若天堂",
+ "NAME_JP": "ヘヴンスフィール",
+ "NAME": "Heaven's Feel",
+ "HEAD1": "035C.png",
+ "PIC1": "035A.png",
+ "PIC2": "035B.png",
+ "Avatar": "035",
+ "STAR": "5",
+ "LV1_HP": "0",
+ "LV1_ATK": "500",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "2000",
+ "COST": "12",
+ "ILLUST": "ワダアルコ",
+ "CV": "——",
+ "ICO": "302.png",
+ "SKILL_E": "自身的宝具威力提升40%",
+ "SKILLMAX_E": "自身的宝具威力提升50%[最大解放]",
+ "INTRO": "人体蕴含祝福。\n愿望将幻想变为奇迹。肉体啊，就是现在从枷锁中解放吧。"
+}

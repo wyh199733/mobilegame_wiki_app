@@ -1,0 +1,14 @@
+{
+ "NO": "49",
+ "CLASS": "技能强化素材",
+ "NAME": "术秘石",
+ "ICO": "star04.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "寄宿着术士力量的宝石之石",
+ "MAP": "0,0,0",
+ "PLACE": "E5_術の修行場中级,E5_術の修行場上级,E5_術の修行場超级",
+ "AP": "20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "cube.png,cube.png,cube.png"
+}

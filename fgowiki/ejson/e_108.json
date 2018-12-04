@@ -1,0 +1,22 @@
+{
+ "ID": "108",
+ "NAME_CN": "英灵肖像：大流士三世",
+ "NAME_JP": "英霊肖像:ダレイオス三世",
+ "NAME": "",
+ "HEAD1": "108C.png",
+ "PIC1": "108A.png",
+ "PIC2": "108B.png",
+ "Avatar": "108",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "500",
+ "LVMAX_ATK": "500",
+ "COST": "5",
+ "ILLUST": "PFALZ",
+ "CV": "——",
+ "ICO": "205.png",
+ "SKILL_E": "任务通关时所获得的羁绊增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "响应Grand Order的召唤的Servent\n之一。\n所寻求的好敌手在哪里？被狂气所囚禁的那意识中，曾经的王在想些什么呢？"
+}

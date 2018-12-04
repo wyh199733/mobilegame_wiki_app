@@ -1,0 +1,22 @@
+{
+ "ID": "132",
+ "NAME_CN": "名牌巧克力",
+ "NAME_JP": "ブランドチョコ",
+ "NAME": "Brand Choco",
+ "HEAD1": "132C.png",
+ "PIC1": "132A.png",
+ "PIC2": "132B.png",
+ "Avatar": "132",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "はよせな",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "美杜莎的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "虽然是无聊的东西，不过请收下吧。\n对你的话会在意难为情之处被你看见，不过恋爱也好战斗也好看起来都是值得去做的事呢。"
+}

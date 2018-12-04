@@ -1,0 +1,22 @@
+{
+ "ID": "461",
+ "NAME_CN": "白花",
+ "NAME_JP": "白い花",
+ "NAME": "",
+ "HEAD1": "461C.png",
+ "PIC1": "461A.png",
+ "PIC2": "461B.png",
+ "Avatar": "461",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "200.png",
+ "SKILL_E": "情人节礼装 提供30000点礼装强化经验",
+ "SKILLMAX_E": "——",
+ "INTRO": "某兵器的记录。\n\n像是能让内心得到休息的一枝白花。"
+}

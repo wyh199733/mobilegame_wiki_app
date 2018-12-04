@@ -1,0 +1,22 @@
+{
+ "ID": "412",
+ "NAME_CN": "First Sunrise",
+ "NAME_JP": "ファースト・サンライズ",
+ "NAME": "",
+ "HEAD1": "412C.png",
+ "PIC1": "412A.png",
+ "PIC2": "412B.png",
+ "Avatar": "412",
+ "STAR": "5",
+ "LV1_HP": "0",
+ "LV1_ATK": "500",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "2000",
+ "COST": "12",
+ "ILLUST": "みふじ喜一",
+ "CV": "--",
+ "ICO": "306.png",
+ "SKILL_E": "自身的Buster卡性能提升15%  &  在NP值为40%的状态下开始战斗",
+ "SKILLMAX_E": "自身的Buster卡性能提升20%  &  在NP值为50%的状态下开始战斗[最大解放]",
+ "INTRO": "于清澄蔚蓝的天空，\n一年里最初的朝日升起。\n\n那道曙光虽格外的美丽，\n但映照之下骑士王的形貌也更———"
+}

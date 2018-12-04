@@ -1,0 +1,22 @@
+{
+ "ID": "173",
+ "NAME_CN": "Last Encore",
+ "NAME_JP": "",
+ "NAME": "Last Encore",
+ "HEAD1": "173C.png",
+ "PIC1": "173A.png",
+ "PIC2": "173B.png",
+ "Avatar": "173",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "滝山真哲",
+ "CV": "——",
+ "ICO": "305.png",
+ "SKILL_E": "自身的Arts卡性能提升10% & 赋予自身每回合获得3个星星状态",
+ "SKILLMAX_E": "——",
+ "INTRO": "凝视着耸立的天空。\n\n失去了喝彩，\n繁荣成为了虚伪，\n许许多多的愿望破碎。\n\n——在那地狱，没有光亮。"
+}

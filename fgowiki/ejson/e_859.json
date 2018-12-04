@@ -1,0 +1,22 @@
+{
+ "ID": "859",
+ "NAME_CN": "Greatest Journey",
+ "NAME_JP": "グレイテスト・ジャーニー",
+ "NAME": "",
+ "HEAD1": "859C.png",
+ "PIC1": "859A.png",
+ "PIC2": "859B.png",
+ "Avatar": "859",
+ "STAR": "4",
+ "LV1_HP": "320",
+ "LV1_ATK": "200",
+ "LVMAX_HP": "1200",
+ "LVMAX_ATK": "750",
+ "COST": "9",
+ "ILLUST": "STAR影法師",
+ "CV": null,
+ "ICO": "304.png",
+ "SKILL_E": "自身的Quick卡性能提升10% & NP获得量提升5%",
+ "SKILLMAX_E": "自身的Quick卡性能提升15% & NP获得量提升10%[最大解放]",
+ "INTRO": "毒辣的阳光。\n烧焦的柏油路的味道。\n\n手持工具，继续奋斗。\n旅程才刚刚开始呢！"
+}

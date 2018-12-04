@@ -1,0 +1,14 @@
+{
+ "NO": "16",
+ "CLASS": "共通素材",
+ "NAME": "竜の牙",
+ "ICO": "tooth.png",
+ "BOX": "Silver",
+ "QUALITY": "Copper",
+ "ABOUT": "龙类的牙齿，龙牙兵就是利用这种牙齿制作而成的",
+ "MAP": "1,2,2,2,2,2,2,4,4,0,0,0,0,0,0,0,0,0,0,0",
+ "PLACE": "F_大空洞(冬木),F_始まりの砦(オルレアン),F_ロワールの畔(オルレアン),F_太古の森(オルレアン),F_刃物の町(オルレアン),F_運命の砦(オルレアン),F_芸術の都(オルレアン),F_牡牛の迷宮(オケアノス),F_竜たちの楽園(オケアノス),E1_剣の修行場初级,E2_弓の修行場初级,E2_弓の修行場中级,E4_騎の修行場初级,E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级,E6_殺の修行場初级,E6_殺の修行場中级,E6_殺の修行場上级,E6_殺の修行場超级",
+ "AP": "7,7,7,7,7,8,13,13,14,10,10,20,10,20,30,40,10,20,30,40",
+ "LOST": "各类龙和龙牙兵",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png"
+}

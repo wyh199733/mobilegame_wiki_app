@@ -1,0 +1,14 @@
+{
+ "NO": "52",
+ "CLASS": "技能强化素材",
+ "NAME": "杀秘石",
+ "ICO": "star07.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "寄宿着杀手力量的宝石之石",
+ "MAP": "0,0",
+ "PLACE": "E6_殺の修行場上级,E6_殺の修行場超级",
+ "AP": "30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "cube.png,cube.png"
+}

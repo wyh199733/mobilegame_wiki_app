@@ -1,0 +1,22 @@
+{
+ "ID": "622",
+ "NAME_CN": "英灵正装：莱昂纳多·达·芬奇",
+ "NAME_JP": "英霊正装：レオナルド・ダ・ヴィンチ",
+ "NAME": "",
+ "HEAD1": "622C.png",
+ "PIC1": "622A.png",
+ "PIC2": "622B.png",
+ "Avatar": "622",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "下越",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的魔术礼装EXP增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "祝·「Fate/Grand Order」二周年！！\n\n谨念贺日，\n英灵们也以特别的盛装登场。"
+}

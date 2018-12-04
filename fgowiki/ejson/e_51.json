@@ -1,0 +1,22 @@
+{
+ "ID": "51",
+ "NAME_CN": "万圣节的准备",
+ "NAME_JP": "ハロウィン・アレンジメント",
+ "NAME": "Halloween Arrangement",
+ "HEAD1": "051C.png",
+ "PIC1": "051A.png",
+ "PIC2": "051B.png",
+ "Avatar": "051",
+ "STAR": "4",
+ "LV1_HP": "600",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "2250",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "T-Ray",
+ "CV": "——",
+ "ICO": "700.png",
+ "SKILL_E": "赋予自身目标集中状态（1回合） & 防御力提升60%（1回合）",
+ "SKILLMAX_E": "赋予自身目标集中状态（1回合） & 防御力提升80%（1回合）[最大解放]",
+ "INTRO": "Chaldea现在正在改装中……\n万圣节派对的准备已经齐全了。\n今晚无论是谁来拜访都没有问题的哟。"
+}

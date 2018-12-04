@@ -1,0 +1,22 @@
+{
+ "ID": "893",
+ "NAME_CN": "Fate/Grand Order Memories I",
+ "NAME_JP": "Fate/Grand Order Memories I",
+ "NAME": "",
+ "HEAD1": "893C.png",
+ "PIC1": "893A.png",
+ "PIC2": "893B.png",
+ "Avatar": "893",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "NOCO",
+ "CV": null,
+ "ICO": "202.png",
+ "SKILL_E": "通关时所获得的御主经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "被装点得鲜艳无比的人理修复的旅途。\n现在那遥远的日子，在色彩中苏醒————\n"
+}

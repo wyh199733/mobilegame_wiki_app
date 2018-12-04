@@ -1,0 +1,14 @@
+{
+ "NO": "19",
+ "CLASS": "灵基再临素材",
+ "NAME": "银弓棋",
+ "ICO": "figure2s.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "象征着弓手职介的银棋子\n",
+ "MAP": "2,0,0,0,0",
+ "PLACE": "F_芸術の都(オルレアン),E2_弓の修行場初级,E2_弓の修行場中级,E2_弓の修行場上级,E2_弓の修行場超级",
+ "AP": "13,10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

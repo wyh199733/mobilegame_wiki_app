@@ -1,0 +1,22 @@
+{
+ "ID": "415",
+ "NAME_CN": "Cheers to 2017",
+ "NAME_JP": "チアーズ・トゥ・2017",
+ "NAME": "",
+ "HEAD1": "415C.png",
+ "PIC1": "415A.png",
+ "PIC2": "415B.png",
+ "Avatar": "415",
+ "STAR": "4",
+ "LV1_HP": "2017",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "2017",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "Mika Pikazo",
+ "CV": "--",
+ "ICO": "606.png",
+ "SKILL_E": "赋予自身每回合HP回复100的状态",
+ "SKILLMAX_E": "--",
+ "INTRO": "2017年，恭祝新年快乐。\n\n跨越了众多试练，与Master度过新的一年。\n即便是前方还有试练在等待——\n迎接崭新之时的少女，一心同祈愿着\n这份温暖的「现在」与洋溢希望的「未来」。"
+}

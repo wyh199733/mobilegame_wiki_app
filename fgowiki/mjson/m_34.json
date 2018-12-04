@@ -1,0 +1,14 @@
+{
+ "NO": "34",
+ "CLASS": "技能强化素材",
+ "NAME": "枪辉石",
+ "ICO": "sphere03.png",
+ "BOX": "Copper",
+ "QUALITY": "Copper",
+ "ABOUT": "寄宿着枪兵力量的光辉之石",
+ "MAP": "1,1,1,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,0,0,0,0",
+ "PLACE": "F_爆心地(冬木),F_大橋(冬木),F_燃え盛る森(冬木),F_ジャンヌ生誕の地(オルレアン),F_ロワールの畔(オルレアン),F_太古の森(オルレアン),F_死者の街(オルレアン),F_地中海を臨む(オルレアン),F_ワインで乾杯(オルレアン),F_運命の砦(オルレアン),F_街道の女王(セプテム),F_ローマは一日にして成らず(セプテム),F_花の都(セプテム),F_平原の真中(セプテム),F_いにしえの港(セプテム),F_燻る戦火(セプテム),F_女神の洞窟(セプテム),F_霧深き森(セプテム),",
+ "AP": "4,4,15,7,7,7,7,7,7,8,9,9,9,9,9,15,9,10,9,10,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

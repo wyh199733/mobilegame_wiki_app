@@ -1,0 +1,14 @@
+{
+ "NO": "50",
+ "CLASS": "技能强化素材",
+ "NAME": "骑秘石",
+ "ICO": "star05.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "寄宿着骑士力量的宝石之石",
+ "MAP": "0,0,0",
+ "PLACE": "E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级",
+ "AP": "20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "cube.png,cube.png,cube.png"
+}

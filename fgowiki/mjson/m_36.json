@@ -1,0 +1,14 @@
+{
+ "NO": "36",
+ "CLASS": "技能强化素材",
+ "NAME": "骑辉石",
+ "ICO": "sphere05.png",
+ "BOX": "Copper",
+ "QUALITY": "Copper",
+ "ABOUT": "寄宿着骑士力量的光辉之石",
+ "MAP": "2,2,2,2,2,2,0,0,0,0",
+ "PLACE": "F_始まりの砦(オルレアン),F_ロワールの畔(オルレアン),F_太古の森(オルレアン),F_刃物の町(オルレアン),F_運命の砦(オルレアン),F_芸術の都(オルレアン),E4_騎の修行場初级,E4_騎の修行場中级,E4_騎の修行場上级,E4_騎の修行場超级",
+ "AP": "7,7,7,7,8,13,10,10,20,30,40",
+ "LOST": "对应职介怪物",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

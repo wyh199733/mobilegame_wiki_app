@@ -1,0 +1,22 @@
+{
+ "ID": "710",
+ "NAME_CN": "漫画化企划",
+ "NAME_JP": "コミカライズプロジェクト",
+ "NAME": "",
+ "HEAD1": "710C.png",
+ "PIC1": "710A.png",
+ "PIC2": "710B.png",
+ "Avatar": "710",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "白峰＆カワグチタケシ",
+ "CV": "——",
+ "ICO": "202.png",
+ "SKILL_E": "任务通关时所获得的Master经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "这是，成为人类最后Master的少年、\n与作为他的盾守护他的少女、\n夺回人类史的两个故事。\n\n-mortalis:stella-\n\n-turas réalta-"
+}

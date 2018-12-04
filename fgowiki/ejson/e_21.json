@@ -1,0 +1,22 @@
+{
+ "ID": "21",
+ "NAME_CN": "钢之锻炼",
+ "NAME_JP": "鋼の鍛錬",
+ "NAME": "",
+ "HEAD1": "021C.png",
+ "PIC1": "021A.png",
+ "PIC2": "021B.png",
+ "Avatar": "021",
+ "STAR": "4",
+ "LV1_HP": "400",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "1500",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "雌鳥",
+ "CV": "——",
+ "ICO": "400.png",
+ "SKILL_E": "自身的防御力提升15%",
+ "SKILLMAX_E": "自身的防御力提升20%[最大解放]",
+ "INTRO": "信仰才是人的证明。\n信念将肉体变为钢铁。"
+}

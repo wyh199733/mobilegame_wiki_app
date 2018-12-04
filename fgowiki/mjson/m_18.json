@@ -1,0 +1,14 @@
+{
+ "NO": "18",
+ "CLASS": "灵基再临素材",
+ "NAME": "银剑棋",
+ "ICO": "figure1s.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "象征着剑士职介的银棋子",
+ "MAP": "1,2,3,0,0,0,0",
+ "PLACE": "F_大空洞(冬木),F_芸術の都(オルレアン),F_燻る戦火(セプテム),E1_剣の修行場初级,E1_剣の修行場中级,E1_剣の修行場上级,E1_剣の修行場超级",
+ "AP": "7,9,9,10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png,cube.png"
+}

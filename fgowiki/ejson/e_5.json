@@ -1,0 +1,22 @@
+{
+ "ID": "5",
+ "NAME_CN": "破坏",
+ "NAME_JP": "破壊",
+ "NAME": "",
+ "HEAD1": "005C.png",
+ "PIC1": "005A.png",
+ "PIC2": "005B.png",
+ "Avatar": "005",
+ "STAR": "1",
+ "LV1_HP": "0",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "300",
+ "COST": "1",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "306.png",
+ "SKILL_E": "自身的Buster卡性能提升3%",
+ "SKILLMAX_E": "自身的Buster卡性能提升5%[最大解放]",
+ "INTRO": "崩坏吧！\n新生之时已然降临。"
+}

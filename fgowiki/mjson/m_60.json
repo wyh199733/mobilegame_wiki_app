@@ -1,0 +1,14 @@
+{
+ "NO": "60",
+ "CLASS": "特殊道具",
+ "NAME": "金苹果",
+ "ICO": "gapple.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "不知道口味如何的金苹果。\n作用：回复100%Ap",
+ "MAP": "",
+ "PLACE": "回复100%Ap",
+ "AP": "",
+ "LOST": "",
+ "AWARD": ""
+}

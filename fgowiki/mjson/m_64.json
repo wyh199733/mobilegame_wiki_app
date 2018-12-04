@@ -1,0 +1,14 @@
+{
+ "NO": "64",
+ "CLASS": "特殊道具",
+ "NAME": "铜苹果",
+ "ICO": "copperapple.png",
+ "BOX": "Copper",
+ "QUALITY": "Copper",
+ "ABOUT": "牙好也不一定咬动的铜苹果.\n作用：回复10Ap",
+ "MAP": "",
+ "PLACE": "回复10Ap",
+ "AP": "",
+ "LOST": null,
+ "AWARD": ""
+}

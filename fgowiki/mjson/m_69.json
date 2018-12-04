@@ -1,0 +1,14 @@
+{
+ "NO": "69",
+ "CLASS": "技能强化&灵基再临素材",
+ "NAME": "精灵根",
+ "ICO": "root.png",
+ "BOX": "Gold",
+ "QUALITY": "Gold",
+ "ABOUT": "寄宿着土精灵的根",
+ "MAP": "6",
+ "PLACE": "F_特別行政区(ワシントン)",
+ "AP": "20",
+ "LOST": null,
+ "AWARD": "crystal1.png"
+}

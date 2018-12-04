@@ -1,0 +1,14 @@
+{
+ "NO": "1",
+ "CLASS": "共通素材",
+ "NAME": "鳳凰の羽根",
+ "ICO": "feather.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "东洋某种灵鸟的羽毛",
+ "MAP": "3,0,0,0,0,0,0,0",
+ "PLACE": "F_秘密航路(オケアノス),E1_剣の修行場上级,E1_剣の修行場超级,E2_弓の修行場中级,E2_弓の修行場上级,E2_弓の修行場超级,E3_槍の修行場上级,E3_槍の修行場超级",
+ "AP": "18,30,40,20,30,40,30,40",
+ "LOST": "亚马逊士兵",
+ "AWARD": "crystal1.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png"
+}

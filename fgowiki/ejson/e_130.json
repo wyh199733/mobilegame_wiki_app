@@ -1,0 +1,22 @@
+{
+ "ID": "130",
+ "NAME_CN": "世界终结之纯白",
+ "NAME_JP": "ワールドエンド・ホワイト",
+ "NAME": "World End White",
+ "HEAD1": "130C.png",
+ "PIC1": "130A.png",
+ "PIC2": "130B.png",
+ "Avatar": "130",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "阿尔托莉雅(Lancer Alter)的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "在甘甜的最后是认识的尽头。\n与此相应的，有了觉悟之后吃掉就好了吧。"
+}

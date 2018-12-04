@@ -1,0 +1,14 @@
+{
+ "NO": "2",
+ "CLASS": "共通素材",
+ "NAME": "虚影の塵",
+ "ICO": "powder.png",
+ "BOX": "Gold",
+ "QUALITY": "Copper",
+ "ABOUT": "虚幻的影子消失时飞散的尘",
+ "MAP": "1,1,1,2,2,2,2,2,3,3,3,3,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+ "PLACE": "F_骸彷徨う教会(冬木),F_焼け崩れた校舎(冬木),F_大空洞(冬木),F_太古の森(オルレアン),F_死者の街(オルレアン),F_刃物の町(オルレアン),F_運命の砦(オルレアン),F_芸術の都(オルレアン),F_街道の女王(セプテム),F_いにしえの港(セプテム),F_燻る戦火(セプテム),F_女神の洞窟(セプテム),F_海賊のアジト(オケアノス),F_呪われし海賊たち(オケアノス),F_牡牛の迷宮(オケアノス),E1_剣の修行場初级,E1_剣の修行場中级,E1_剣の修行場上级,E1_剣の修行場超级",
+ "AP": "5,6,7,7,7,7,8,13,9,9,9,9,13,13,13,10,20,30,40,10,20,30,40,10,20,30,40,10,20,30,40,10,20,30,40,10,20,30,40,10,20,30,40",
+ "LOST": "Boss外任意从者",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png,cube.png"
+}

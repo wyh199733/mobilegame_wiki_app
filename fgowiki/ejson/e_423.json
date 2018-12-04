@@ -1,0 +1,22 @@
+{
+ "ID": "423",
+ "NAME_CN": "巧克力天使",
+ "NAME_JP": "チョコ・エンゼル",
+ "NAME": "",
+ "HEAD1": "423C.png",
+ "PIC1": "423A.png",
+ "PIC2": "423B.png",
+ "Avatar": "423",
+ "STAR": "4",
+ "LV1_HP": "400",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "1500",
+ "LVMAX_ATK": "0",
+ "COST": "9",
+ "ILLUST": "茨乃",
+ "CV": "--",
+ "ICO": "306.png",
+ "SKILL_E": "自身的Buster卡性能提升8% & NP获得量提升15%",
+ "SKILLMAX_E": "自身的Buster卡性能提升10% & NP获得量提升20%[最大解放]",
+ "INTRO": "给喜欢的那个人一记Brave Chain!\n\n在情人节无论何时，相爱的人都是最正义的！\n可爱的天使，为出色的您呈上巧克力！！"
+}

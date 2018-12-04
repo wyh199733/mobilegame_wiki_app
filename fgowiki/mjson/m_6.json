@@ -1,0 +1,14 @@
+{
+ "NO": "6",
+ "CLASS": "共通素材",
+ "NAME": "蛇の宝玉",
+ "ICO": "snake.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "仿佛就像蛇的眼睛在注视着你一般的宝玉",
+ "MAP": "4,0,0,0,0",
+ "PLACE": "F_船の墓場(オケアノス),E5_術の修行場初级,E5_術の修行場中级,E5_術の修行場上级,E5_術の修行場超级",
+ "AP": "17,10,20,30,40",
+ "LOST": "拉米亚",
+ "AWARD": "crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

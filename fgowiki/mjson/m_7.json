@@ -1,0 +1,14 @@
+{
+ "NO": "7",
+ "CLASS": "共通素材",
+ "NAME": "無間の歯車",
+ "ICO": "gear.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "只要转动起来后就会一直转下去的齿轮",
+ "MAP": "5,5,5,5,5",
+ "PLACE": "F_霧と馬車とガス灯(伦敦),F_貧民窟(伦敦),F_魅惑の繁華街(伦敦),F_王室の狩場(伦敦),F_癒しの井戸(伦敦),",
+ "AP": "15,15,16,16,18",
+ "LOST": "",
+ "AWARD": "crystal1.png,crystal1.png,crystal1.png,crystal1.png,crystal1.png"
+}

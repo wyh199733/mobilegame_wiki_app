@@ -1,0 +1,22 @@
+{
+ "ID": "868",
+ "NAME_CN": "Sunset Jam",
+ "NAME_JP": "サンセット・ジャム",
+ "NAME": "",
+ "HEAD1": "868C.png",
+ "PIC1": "868A.png",
+ "PIC2": "868B.png",
+ "Avatar": "868",
+ "STAR": "4",
+ "LV1_HP": "320",
+ "LV1_ATK": "200",
+ "LVMAX_HP": "1200",
+ "LVMAX_ATK": "750",
+ "COST": "9",
+ "ILLUST": "さらちよみ",
+ "CV": null,
+ "ICO": "314.png",
+ "SKILL_E": "自身的Quick卡性能提升8% & Arts卡性能提升8% & 暴击威力提升5%",
+ "SKILLMAX_E": "自身的Quick卡性能提升10% & Arts卡性能提升10% & 暴击威力提升10%[最大解放]",
+ "INTRO": "飞舞的键盘与鸣响的铜管，\n伴随着节奏进行敲打的冲动。\n\n重合的音色化为动人的旋律。\n在红之空下回响。"
+}

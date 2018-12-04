@@ -1,0 +1,22 @@
+{
+ "ID": "856",
+ "NAME_CN": "英灵旅装：柳生但马守宗矩",
+ "NAME_JP": "英霊旅装：柳生但馬守宗矩",
+ "NAME": "",
+ "HEAD1": "856C.png",
+ "PIC1": "856A.png",
+ "PIC2": "856B.png",
+ "Avatar": "856",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "古海鐘一",
+ "CV": null,
+ "ICO": "202.png",
+ "SKILL_E": "通关时所获得的魔术礼装经验值增加50",
+ "SKILLMAX_E": "——",
+ "INTRO": "祝·「Fate/Grand Order」三周年！！\n\n庆祝纪念之日，迅游世界吧。\n陪伴你的将是身披旅衣的英灵们。"
+}

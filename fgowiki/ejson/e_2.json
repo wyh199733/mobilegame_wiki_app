@@ -1,0 +1,22 @@
+{
+ "ID": "2",
+ "NAME_CN": "冥想",
+ "NAME_JP": "瞑想",
+ "NAME": "",
+ "HEAD1": "002C.png",
+ "PIC1": "002A.png",
+ "PIC2": "002B.png",
+ "Avatar": "002",
+ "STAR": "1",
+ "LV1_HP": "150",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "450",
+ "LVMAX_ATK": "0",
+ "COST": "1",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "401.png",
+ "SKILL_E": "自身的弱体耐性提升5%",
+ "SKILLMAX_E": "自身的弱体耐性提升10%[最大解放]",
+ "INTRO": "万籁俱静时。\n人类将会洞悉自己的起源。"
+}

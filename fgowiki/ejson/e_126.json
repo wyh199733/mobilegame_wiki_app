@@ -1,0 +1,22 @@
+{
+ "ID": "126",
+ "NAME_CN": "救命",
+ "NAME_JP": "タスケテ",
+ "NAME": "",
+ "HEAD1": "126C.png",
+ "PIC1": "126A.png",
+ "PIC2": "126B.png",
+ "Avatar": "126",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "俄里翁的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "巧克力的雕像像是在诉说着什么的样子……。"
+}

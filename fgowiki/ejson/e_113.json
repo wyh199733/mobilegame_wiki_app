@@ -1,0 +1,22 @@
+{
+ "ID": "113",
+ "NAME_CN": "Chaldea基准",
+ "NAME_JP": "カルデアスタンダード",
+ "NAME": "Chaldea Standard",
+ "HEAD1": "113C.png",
+ "PIC1": "113A.png",
+ "PIC2": "113B.png",
+ "Avatar": "113",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "玛修的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "经过试行错误17回、\n在特异点的材料探索27回终于完成。\n祝你情人节快乐，Master。"
+}

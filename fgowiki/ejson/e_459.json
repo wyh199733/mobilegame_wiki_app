@@ -1,0 +1,22 @@
+{
+ "ID": "459",
+ "NAME_CN": "世界尽头的城堡（World End Castle）",
+ "NAME_JP": "ワールドエンド・キャッスル",
+ "NAME": "",
+ "HEAD1": "459C.png",
+ "PIC1": "459A.png",
+ "PIC2": "459B.png",
+ "Avatar": "459",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "秋田犬",
+ "CV": "——",
+ "ICO": "200.png",
+ "SKILL_E": "情人节礼装 提供30000点礼装强化经验",
+ "SKILLMAX_E": "——",
+ "INTRO": "并非我一个人所做的。\n而是集合了圆桌们的力量才能够完成的。\n\n…………嗯。我很感激。非常的。"
+}

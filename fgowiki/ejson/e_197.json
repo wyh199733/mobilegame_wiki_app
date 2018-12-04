@@ -1,0 +1,22 @@
+{
+ "ID": "197",
+ "NAME_CN": "雪之城",
+ "NAME_JP": "雪の城",
+ "NAME": "",
+ "HEAD1": "197C.png",
+ "PIC1": "197A.png",
+ "PIC2": "197B.png",
+ "Avatar": "197",
+ "STAR": "4",
+ "LV1_HP": "100",
+ "LV1_ATK": "100",
+ "LVMAX_HP": "100",
+ "LVMAX_ATK": "100",
+ "COST": "9",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "404.png",
+ "SKILL_E": "只有赫拉克勒斯(Berserker)装备时，对自身赋予根性状态3次(HP500回复)",
+ "SKILLMAX_E": "——",
+ "INTRO": "——暂时存放宝剑的地方。\n\n脆弱却又高傲的、\n某个少女曾在这里的冬季的记忆。"
+}

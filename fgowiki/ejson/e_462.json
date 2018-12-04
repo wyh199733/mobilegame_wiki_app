@@ -1,0 +1,22 @@
+{
+ "ID": "462",
+ "NAME_CN": "红花",
+ "NAME_JP": "赤い花",
+ "NAME": "",
+ "HEAD1": "462C.png",
+ "PIC1": "462A.png",
+ "PIC2": "462B.png",
+ "Avatar": "462",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "200.png",
+ "SKILL_E": "情人节礼装 提供30000点礼装强化经验",
+ "SKILLMAX_E": "——",
+ "INTRO": "某兵器的记忆。\n\n能够温暖内心的，一枝红花。"
+}

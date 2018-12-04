@@ -1,0 +1,22 @@
+{
+ "ID": "138",
+ "NAME_CN": "圣诞的回忆",
+ "NAME_JP": "クリスマスの思い出",
+ "NAME": "",
+ "HEAD1": "138C.png",
+ "PIC1": "138A.png",
+ "PIC2": "138B.png",
+ "Avatar": "138",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "0",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "0",
+ "COST": "3",
+ "ILLUST": "えいひ",
+ "CV": "——",
+ "ICO": "9999.png",
+ "SKILL_E": "阿尔托莉雅(Santa Alter)的情人节巧克力",
+ "SKILLMAX_E": "——",
+ "INTRO": "袜子里满满地塞着迷你巧克力。\n用手抓着大口大口地吃———\n哪里还有在这以上的幸福呢？"
+}

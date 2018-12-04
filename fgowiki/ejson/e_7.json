@@ -1,0 +1,22 @@
+{
+ "ID": "7",
+ "NAME_CN": "良机",
+ "NAME_JP": "好機",
+ "NAME": "",
+ "HEAD1": "007C.png",
+ "PIC1": "007A.png",
+ "PIC2": "007B.png",
+ "Avatar": "007",
+ "STAR": "2",
+ "LV1_HP": "112",
+ "LV1_ATK": "75",
+ "LVMAX_HP": "375",
+ "LVMAX_ATK": "250",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "604.png",
+ "SKILL_E": "自身的暴击星星发生率提升5%",
+ "SKILLMAX_E": "自身的暴击星星发生率提升10%[最大解放]",
+ "INTRO": "千年一遇。\n勿失良机。"
+}

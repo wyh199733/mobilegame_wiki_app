@@ -1,0 +1,14 @@
+{
+ "NO": "24",
+ "CLASS": "灵基再临素材",
+ "NAME": "银杀棋",
+ "ICO": "figure7s.png",
+ "BOX": "Silver",
+ "QUALITY": "Silver",
+ "ABOUT": "象征着杀手职介的银棋子",
+ "MAP": "1,2,0,0,0,0",
+ "PLACE": "F_焼け崩れた校舎(冬木),F_死者の街(オルレアン),E6_殺の修行場初级,E6_殺の修行場中级,E6_殺の修行場上级,E6_殺の修行場超级",
+ "AP": "6,7,10,20,30,40",
+ "LOST": "对应从者",
+ "AWARD": "crystal1.png,crystal1.png,cube.png,cube.png,cube.png,cube.png"
+}

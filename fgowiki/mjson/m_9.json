@@ -1,0 +1,14 @@
+{
+ "NO": "9",
+ "CLASS": "共通素材",
+ "NAME": "隕蹄鉄",
+ "ICO": "clevis.png",
+ "BOX": "Gold",
+ "QUALITY": "Silver",
+ "ABOUT": "用陨铁制成的强韧蹄铁，不知是否与构成原子一样，并不是在地球上制造出来的产物，有着特别的作用",
+ "MAP": "4",
+ "PLACE": "F_人跡未踏の島(オケアノス) ",
+ "AP": "17",
+ "LOST": "",
+ "AWARD": "crystal1.png"
+}

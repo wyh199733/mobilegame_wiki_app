@@ -1,0 +1,22 @@
+{
+ "ID": "313",
+ "NAME_CN": "魔法蓝宝石",
+ "NAME_JP": "カレイドサファイア",
+ "NAME": "",
+ "HEAD1": "313C.png",
+ "PIC1": "313A.png",
+ "PIC2": "313B.png",
+ "Avatar": "313",
+ "STAR": "4",
+ "LV1_HP": "0",
+ "LV1_ATK": "400",
+ "LVMAX_HP": "0",
+ "LVMAX_ATK": "1500",
+ "COST": "9",
+ "ILLUST": "マシマサキ",
+ "CV": "--",
+ "ICO": "305.png",
+ "SKILL_E": "自身的Arts卡性能提升10% & 宝具威力提升8%＋只有在〔女性〕servant装备时、『魔法少女纪行 ～prisma cause～』中攻击威力提升50% & 「World End Match」中Arts卡威力提升50%【『魔法少女纪行 ～prisma cause～』活动期间限定】",
+ "SKILLMAX_E": "自身的Arts卡性能提升15% & 宝具威力提升10%[最大解放]＋只有在〔女性〕servant装备时、『魔法少女纪行 ～prisma cause～』中攻击威力提升100% & 「World End Match」中Arts卡威力提升100%【『魔法少女纪行 ～prisma cause～』活动期间限定】",
+ "INTRO": "「为了我光辉的未来……   你就在这里给我散落吧！」  \n\n曾是魔法蓝宝石的主人。 \n通过多重魔法阵展开的炮击非常地激烈、强力。"
+}

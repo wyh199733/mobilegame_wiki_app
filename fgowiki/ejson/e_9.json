@@ -1,0 +1,22 @@
+{
+ "ID": "9",
+ "NAME_CN": "集中",
+ "NAME_JP": "集中",
+ "NAME": "",
+ "HEAD1": "009C.png",
+ "PIC1": "009A.png",
+ "PIC2": "009B.png",
+ "Avatar": "009",
+ "STAR": "2",
+ "LV1_HP": "112",
+ "LV1_ATK": "75",
+ "LVMAX_HP": "375",
+ "LVMAX_ATK": "250",
+ "COST": "3",
+ "ILLUST": "——",
+ "CV": "——",
+ "ICO": "602.png",
+ "SKILL_E": "自身的NP获得量提升5%",
+ "SKILLMAX_E": "自身的NP获得量提升10%[最大解放]",
+ "INTRO": "一心一意。\n用心一，则无事不成。"
+}
